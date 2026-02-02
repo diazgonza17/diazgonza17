@@ -1,4 +1,8 @@
-## Hi there 👋
+## Things I built
+
+- 🎵 [Ritmia](https://github.com/gtpd-ent/ritmia) - A website that makes Spotify playlists based on your favourite songs of a given set of artists
+- 🥇 [Counter Data](https://github.com/diazgonza17/counter-data) - A Discord bot that tracks the leaderboard of most messages sent by user at a given channel
+
 
 <!--
 **diazgonza17/diazgonza17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
