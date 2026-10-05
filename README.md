@@ -1,6 +1,6 @@
 ## Things I built
 
-- ⏳ [Claude Plugins](https://github.com/diazgonza17/claude-plugins) - A Claude Code mod that shows your 5-hour session usage, pace and time to reset above the prompt, with Isaac reacting to how fast you're burning tokens
+- ⏳ [Usage Pace](https://github.com/diazgonza17/usage-pace) - A Claude Code mod that shows your 5-hour session usage, pace and time to reset above the prompt, with Isaac reacting to how fast you're burning tokens
 - 🎵 [Ritmia](https://github.com/gtpd-ent/ritmia) - A website that makes Spotify playlists based on your favourite songs of a given set of artists
 - 🥇 [Counter Data](https://github.com/diazgonza17/counter-data) - A Discord bot that tracks the leaderboard of most messages sent by user at a given channel
 
